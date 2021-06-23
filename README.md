@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mdom-pr
+- 🌱 I’m currently learning Arduino IDE, C++, Python, PHP, Java
+- 📫 How to reach me: dominiakmaciej.97@gmail.com
